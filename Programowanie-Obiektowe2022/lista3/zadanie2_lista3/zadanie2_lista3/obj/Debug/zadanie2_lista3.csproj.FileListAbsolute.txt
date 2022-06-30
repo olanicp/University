@@ -1,0 +1,7 @@
+C:\Users\Ola\Desktop\zadanie2_lista3\zadanie2_lista3\bin\Debug\zadanie2_lista3.exe
+C:\Users\Ola\Desktop\zadanie2_lista3\zadanie2_lista3\bin\Debug\zadanie2_lista3.pdb
+C:\Users\Ola\Desktop\zadanie2_lista3\zadanie2_lista3\obj\Debug\zadanie2_lista3.csproj.AssemblyReference.cache
+C:\Users\Ola\Desktop\zadanie2_lista3\zadanie2_lista3\obj\Debug\zadanie2_lista3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ola\Desktop\zadanie2_lista3\zadanie2_lista3\obj\Debug\zadanie2_lista3.csproj.CoreCompileInputs.cache
+C:\Users\Ola\Desktop\zadanie2_lista3\zadanie2_lista3\obj\Debug\zadanie2_lista3.exe
+C:\Users\Ola\Desktop\zadanie2_lista3\zadanie2_lista3\obj\Debug\zadanie2_lista3.pdb

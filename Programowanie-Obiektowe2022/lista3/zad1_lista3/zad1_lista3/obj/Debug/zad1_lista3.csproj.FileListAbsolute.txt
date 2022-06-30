@@ -1,0 +1,7 @@
+C:\Users\Ola\Desktop\zad1_lista3\zad1_lista3\obj\Debug\zad1_lista3.csproj.AssemblyReference.cache
+C:\Users\Ola\Desktop\zad1_lista3\zad1_lista3\obj\Debug\zad1_lista3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ola\Desktop\zad1_lista3\zad1_lista3\obj\Debug\zad1_lista3.csproj.CoreCompileInputs.cache
+C:\Users\Ola\Desktop\zad1_lista3\zad1_lista3\bin\Debug\zad1_lista3.exe
+C:\Users\Ola\Desktop\zad1_lista3\zad1_lista3\bin\Debug\zad1_lista3.pdb
+C:\Users\Ola\Desktop\zad1_lista3\zad1_lista3\obj\Debug\zad1_lista3.exe
+C:\Users\Ola\Desktop\zad1_lista3\zad1_lista3\obj\Debug\zad1_lista3.pdb
