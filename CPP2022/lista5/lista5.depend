@@ -1,0 +1,146 @@
+# depslib dependency file v1.0
+1649616921 source:c:\users\ola\documents\wdc\lista5\kolor.cpp
+	<iostream>
+	<cmath>
+	"kolor.hpp"
+
+1649622293 source:c:\users\ola\documents\wdc\lista5\main.cpp
+	<iostream>
+	"kolor.hpp"
+	"kolortransparentny.hpp"
+	"kolornazwany.hpp"
+	"punkt.hpp"
+	"punktnazwany.hpp"
+	"punktkolorowy.hpp"
+	"punktkolorowynazwany.hpp"
+	"punkt2d.hpp"
+	"punkt3d.hpp"
+
+1649616230 c:\users\ola\documents\wdc\lista5\kolor.h
+	<iostream>
+
+1649616921 source:c:\users\ola\documents\wdc\lista5\kolortransparentny.cpp
+	<iostream>
+	"kolortransparentny.hpp"
+	"kolor.hpp"
+
+1649616280 c:\users\ola\documents\wdc\lista5\kolortransparentny.h
+	<iostream>
+	"kolor.h"
+
+1649616921 source:c:\users\ola\documents\wdc\lista5\punkt.cpp
+	<iostream>
+	<math.h>
+	"punkt.hpp"
+
+1649603105 c:\users\ola\documents\wdc\lista5\punkt.h
+	<iostream>
+
+1649616921 source:c:\users\ola\documents\wdc\lista5\punktnazwany.cpp
+	<iostream>
+	"punktnazwany.hpp"
+	"punkt.hpp"
+
+1649603441 c:\users\ola\documents\wdc\lista5\punktnazwany.h
+	<iostream>
+	"punkt.h"
+
+1649616921 source:c:\users\ola\documents\wdc\lista5\wektor3d.cpp
+	<iostream>
+	"wektor3d.hpp"
+	"wektor2d.hpp"
+
+1649604125 c:\users\ola\documents\wdc\lista5\wektor3d.h
+	<iostream>
+	"wektor2d.h"
+
+1649616167 c:\users\ola\documents\wdc\lista5\wektor2d.h
+	<iostream>
+
+1649616921 source:c:\users\ola\documents\wdc\lista5\punkt2d.cpp
+	<iostream>
+	"punkt2d.hpp"
+	"punkt.hpp"
+
+1649614814 c:\users\ola\documents\wdc\lista5\punkt2d.h
+	<iostream>
+	"punkt.h"
+	"wektor2d.h"
+
+1649616921 source:c:\users\ola\documents\wdc\lista5\punktkolorowy.cpp
+	<iostream>
+	"punktkolorowy.hpp"
+	"punkt.hpp"
+	"kolortransparentny.hpp"
+
+1649615173 c:\users\ola\documents\wdc\lista5\punktkolorowy.h
+	<iostream>
+	"punkt.h"
+	"kolortransparentny.h"
+
+1649616921 source:c:\users\ola\documents\wdc\lista5\wektor2d.cpp
+	<iostream>
+	"wektor2d.hpp"
+
+1649616355 c:\users\ola\documents\wdc\lista5\kolor.hpp
+	<iostream>
+
+1649616921 source:c:\users\ola\documents\wdc\lista5\kolornazwany.cpp
+	<iostream>
+	"kolortransparentny.hpp"
+	"kolornazwany.hpp"
+
+1649616921 c:\users\ola\documents\wdc\lista5\kolortransparentny.hpp
+	<iostream>
+	"kolor.hpp"
+
+1649616921 c:\users\ola\documents\wdc\lista5\kolornazwany.hpp
+	<iostream>
+	"kolortransparentny.hpp"
+
+1649616484 c:\users\ola\documents\wdc\lista5\punkt.hpp
+	<iostream>
+
+1649616921 c:\users\ola\documents\wdc\lista5\punkt2d.hpp
+	<iostream>
+	"punkt.hpp"
+	"wektor2d.hpp"
+
+1649616724 c:\users\ola\documents\wdc\lista5\wektor2d.hpp
+	<iostream>
+
+1649623392 source:c:\users\ola\documents\wdc\lista5\punkt3d.cpp
+	<iostream>
+	<math.h>
+	"punkt3d.hpp"
+	"punkt2d.hpp"
+
+1649623392 c:\users\ola\documents\wdc\lista5\punkt3d.hpp
+	<iostream>
+	"punkt2d.hpp"
+	"wektor3d.hpp"
+
+1649616921 c:\users\ola\documents\wdc\lista5\wektor3d.hpp
+	<iostream>
+	"wektor2d.hpp"
+
+1649616921 c:\users\ola\documents\wdc\lista5\punktkolorowy.hpp
+	<iostream>
+	"punkt.hpp"
+	"kolortransparentny.hpp"
+
+1649616921 source:c:\users\ola\documents\wdc\lista5\punktkolorowynazwany.cpp
+	<iostream>
+	"punktkolorowynazwany.hpp"
+	"punktkolorowy.hpp"
+	"punktnazwany.hpp"
+
+1649616921 c:\users\ola\documents\wdc\lista5\punktkolorowynazwany.hpp
+	<iostream>
+	"punktkolorowy.hpp"
+	"punktnazwany.hpp"
+
+1649616921 c:\users\ola\documents\wdc\lista5\punktnazwany.hpp
+	<iostream>
+	"punkt.hpp"
+

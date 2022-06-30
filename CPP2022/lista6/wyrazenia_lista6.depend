@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1650832661 source:c:\users\ola\documents\wdc\wyrazenia_lista6\main.cpp
+	<iostream>
+	"wyrazenie.hpp"
+	"zmienna.hpp"
+	"liczba.hpp"
+	"stala.hpp"
+	"operator1arg.hpp"
+	"operator2arg.hpp"
+
+1650830868 c:\users\ola\documents\wdc\wyrazenia_lista6\wyrazenie.hpp
+	<iostream>
+
+1650832653 c:\users\ola\documents\wdc\wyrazenia_lista6\zmienna.hpp
+	<iostream>
+	<vector>
+	"wyrazenie.hpp"
+
+1650830894 source:c:\users\ola\documents\wdc\wyrazenia_lista6\zmienna.cpp
+	<iostream>
+	<vector>
+	"zmienna.hpp"
+
+1650831588 source:c:\users\ola\documents\wdc\wyrazenia_lista6\liczba.cpp
+	<iostream>
+	"liczba.hpp"
+
+1650831576 c:\users\ola\documents\wdc\wyrazenia_lista6\liczba.hpp
+	<iostream>
+	"wyrazenie.hpp"
+
+1650831874 source:c:\users\ola\documents\wdc\wyrazenia_lista6\stala.cpp
+	<iostream>
+	"stala.hpp"
+
+1650831662 c:\users\ola\documents\wdc\wyrazenia_lista6\stala.hpp
+	<iostream>
+	<math.h>
+	"wyrazenie.hpp"
+
+1650832281 c:\users\ola\documents\wdc\wyrazenia_lista6\operator1arg.hpp
+	<iostream>
+	"wyrazenie.hpp"
+
+1650832293 source:c:\users\ola\documents\wdc\wyrazenia_lista6\operator1arg.cpp
+	<iostream>
+	<math.h>
+	"operator1arg.hpp"
+
+1650832607 source:c:\users\ola\documents\wdc\wyrazenia_lista6\operator2arg.cpp
+	<iostream>
+	"operator2arg.hpp"
+
+1650832607 c:\users\ola\documents\wdc\wyrazenia_lista6\operator2arg.hpp
+	<iostream>
+	"operator1arg.hpp"
+

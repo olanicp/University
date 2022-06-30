@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="lista5" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/lista5" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/lista5" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="kolor.cpp" />
+		<Unit filename="kolor.hpp" />
+		<Unit filename="kolornazwany.cpp" />
+		<Unit filename="kolornazwany.hpp" />
+		<Unit filename="kolortransparentny.cpp" />
+		<Unit filename="kolortransparentny.hpp" />
+		<Unit filename="main.cpp" />
+		<Unit filename="punkt.cpp" />
+		<Unit filename="punkt.hpp" />
+		<Unit filename="punkt2d.cpp" />
+		<Unit filename="punkt2d.hpp" />
+		<Unit filename="punkt3d.cpp" />
+		<Unit filename="punkt3d.hpp" />
+		<Unit filename="punktkolorowy.cpp" />
+		<Unit filename="punktkolorowy.hpp" />
+		<Unit filename="punktkolorowynazwany.cpp" />
+		<Unit filename="punktkolorowynazwany.hpp" />
+		<Unit filename="punktnazwany.cpp" />
+		<Unit filename="punktnazwany.hpp" />
+		<Unit filename="wektor2d.cpp" />
+		<Unit filename="wektor2d.hpp" />
+		<Unit filename="wektor3d.cpp" />
+		<Unit filename="wektor3d.hpp" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

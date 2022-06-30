@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1653237498 source:c:\users\ola\desktop\cpp\wymierne\wymierne.cpp
+	<iostream>
+	<iomanip>
+	"error.hpp"
+	"wymierne.hpp"
+
+1653237633 source:c:\users\ola\desktop\cpp\wymierne\main.cpp
+	<iostream>
+	<iomanip>
+	"wymierne.hpp"
+
+1653236552 c:\users\ola\desktop\cpp\wymierne\error.hpp
+	<iostream>
+
+1653237683 c:\users\ola\desktop\cpp\wymierne\wymierne.hpp
+	<iostream>
+	<math.h>
+

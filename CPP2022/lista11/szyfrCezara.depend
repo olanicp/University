@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1654461720 source:c:\users\ola\desktop\cpp\szyfrcezara\main.cpp
+	<iostream>
+	<fstream>
+	<stdio.h>
+
