@@ -15,3 +15,6 @@ Instructions:
 
 How to launch:
 Game opens up in Visual Studio Code where you can compile it. To open the game choose FloatingPiggy.sln with double click.
+
+
+![image](https://user-images.githubusercontent.com/95310185/199803109-665aa117-2ee7-495f-80d5-1b563bf518e3.png)
